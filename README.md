@@ -96,7 +96,7 @@ The **EduGenie – AI Powered Learning Assistant** addresses this challenge by a
 ### Clone the repository
 
 ```bash
-[git clone https://github.com/24102A010735/Voice-Based-Concept-Understanding-Analyser.git]
+[git clone https://github.com/kodumurashok3938-bit/EduGenie-Google-Gemini-Powered-Learning-Assistant.git]
 ```
 
 ### Navigate to the project
@@ -248,7 +248,7 @@ Electrical and Electronics Engg
 
 ## 👨‍💻 Developed By
 
-**Kodumur ashok**
+**Kodumur Ashok**
 
 B.Tech Electrical and Electronics Engg
 
